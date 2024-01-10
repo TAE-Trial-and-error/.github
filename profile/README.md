@@ -9,4 +9,12 @@
 
 <hr/>
 
-##⚽troubleshooting 
+## ⚽troubleshooting 
+## useStack
+java(17ver)
+spring-boot(3.20ver)
+spring-boot-data-jpa
+js
+thymeleaf
+h2-database
+lombok
