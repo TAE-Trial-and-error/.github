@@ -3,12 +3,12 @@
 <hr/>
 ## 💻 member
 
-|이름|깃허브 주소|포지션|
-|---|---|---|
-|윤창욱|[changukdfwe의 github](https://github.com/changukdfwe)|Frontend|
-|박경빈|[acbine의 github](https://github.com/acbine)|Frontend|
-|박재웅|[pjw2229의 github](https://github.com/pjw2229)|Backend|
-|한종혁|[1arged의 github](https://github.com/1argeD)|Backend|
+|이름|깃허브 주소|
+|---|---|
+|윤창욱|[changukdfwe의 github](https://github.com/changukdfwe)|
+|박경빈|[acbine의 github](https://github.com/acbine)|
+|박재웅|[pjw2229의 github](https://github.com/pjw2229)|
+|한종혁|[1arged의 github](https://github.com/1argeD)|
 
 ## WE MAKE
 
