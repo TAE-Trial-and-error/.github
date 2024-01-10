@@ -20,7 +20,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/H2 database-007396?style=flat&logo=H2 database&logoColor=white" />
-<img src="https://img.shields.io/badge/thymeleaf?style=flat&logo=thymeleaf&logoColor=green" />
+<img src="https://img.shields.io/badge/thymeleaf-white?style=flat&logo=thymeleaf&logoColor=green" />
+
 <br>js
 <br>thymeleaf
 <br>h2-database
