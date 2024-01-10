@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/H2 database-007396?style=flat&logo=H2 database&logoColor=white" />
 <img src="https://img.shields.io/badge/thymeleaf-white?style=flat&logo=thymeleaf&logoColor=green" />
+<img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=black" />
 
 <br>js
 <br>thymeleaf
