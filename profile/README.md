@@ -22,8 +22,4 @@
 <img src="https://img.shields.io/badge/H2 database-007396?style=flat&logo=H2 database&logoColor=white" />
 <img src="https://img.shields.io/badge/thymeleaf-white?style=flat&logo=thymeleaf&logoColor=green" />
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=black" />
-
-<br>js
-<br>thymeleaf
-<br>h2-database
-<br>lombok
+<img src="https://img.shields.io/badge/lombok-red?style=flat&logo=lombok&logoColor=black" />
