@@ -4,8 +4,6 @@
 ## 💻 member
 |이름|깃허브 주소|포지션|
 |---|---|---|
-윤창욱, 박경빈, 박재웅, 한종혁
-
 |윤창욱|[changukdfwe의 github](https://github.com/changukdfwe)]|Frontend|
 |박경빈|[acbine의 github](https://github.com/acbine)|Frontend|
 |박재웅|[pjw2229의 github](https://github.com/pjw2229)|Backend|
