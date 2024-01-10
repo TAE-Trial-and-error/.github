@@ -11,10 +11,10 @@
 
 ## ⚽troubleshooting 
 ## useStack
-java(17ver)
-spring-boot(3.20ver)
-spring-boot-data-jpa
-js
-thymeleaf
-h2-database
-lombok
+<br>java(17ver)
+<br>spring-boot(3.20ver)
+<br>spring-boot-data-jpa
+<br>js
+<br>thymeleaf
+<br>h2-database
+<br>lombok
